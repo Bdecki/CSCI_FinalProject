@@ -1,0 +1,47 @@
+To Kill a Mockingbird;Harper Lee;9780060935467
+1984;George Orwell;9780451524935
+The Great Gatsby;F. Scott Fitzgerald;9780743273565
+The Catcher in the Rye;J.D. Salinger;9780316769174
+Pride and Prejudice;Jane Austen;9780679783268
+The Lord of the Rings;J.R.R. Tolkien;9780618640157
+Animal Farm;George Orwell;9780451526342
+The Hobbit;J.R.R. Tolkien;9780345339683
+Fahrenheit 451;Ray Bradbury;9781451673319
+Jane Eyre;Charlotte Bronte;9780141441146
+Wuthering Heights;Emily Bronte;9780141439556
+Brave New World;Aldous Huxley;9780060850524
+Slaughterhouse-Five;Kurt Vonnegut;9780385333849
+The Odyssey;Homer;9780143039952
+Crime and Punishment;Fyodor Dostoyevsky;9780140449136
+The Grapes of Wrath;John Steinbeck;9780143039433
+The Chronicles of Narnia;C.S. Lewis;9780066238500
+Moby-Dick;Herman Melville;9780142000083
+The Catch-22;Joseph Heller;9780684833392
+One Hundred Years of Solitude;Gabriel Garcia Marquez;9780060883287
+Of Mice and Men;John Steinbeck;9780142000670
+The Picture of Dorian Gray;Oscar Wilde;9780375751516
+The Old Man and the Sea;Ernest Hemingway;9780684830490
+The Iliad;Homer;9780140275360
+Dracula;Bram Stoker;9780141439846
+Frankenstein;Mary Shelley;9780141439471
+The Bell Jar;Sylvia Plath;9780060837020
+The Stranger;Albert Camus;9780679720201
+The Secret Garden;Frances Hodgson Burnett;9780451528834
+Les Misérables;Victor Hugo;9780451419439
+A Tale of Two Cities;Charles Dickens;9780141439600
+Sense and Sensibility;Jane Austen;9780141439662
+Great Expectations;Charles Dickens;9780141439563
+War and Peace;Leo Tolstoy;9780143039990
+Anna Karenina;Leo Tolstoy;9780143035008
+The Color Purple;Alice Walker;9780156028356
+Little Women;Louisa May Alcott;9780142408766
+The Scarlet Letter;Nathaniel Hawthorne;9780451531353
+The Kite Runner;Khaled Hosseini;9781594480003
+Emma;Jane Austen;9780141439587
+The Handmaid's Tale;Margaret Atwood;9780385490818
+The Count of Monte Cristo;Alexandre Dumas;9780140449267
+Ulysses;James Joyce;9780141182803
+Lolita;Vladimir Nabokov;9780679723165
+Gone with the Wind;Margaret Mitchell;9780446675536
+Beloved;Toni Morrison;9780452264465
+The Brothers Karamazov;Fyodor Dostoyevsky;9780140445276
