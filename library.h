@@ -8,8 +8,15 @@ The search functionality supports case-insensitive and partial matches. When a u
  Details:
  - added a menu driven functionality to the basic program. Menu options include: Search for a book, Borrow a book, Return a book, Check days left, and Exit.
  (May need to add a function to write user names to a seperate txt file for when the user is prompted to enter name to borrow a book. also track the days left for each checked out book per user in the txt file?)
+
+ [UPDATE]: worked on input validation
+ Date: 5/8/2023
+ Author: Charles Bedecki
+ Details:
+ - ISBN validation: ensure that input is a string of numbers or dashes
+ - User's name: validate that input is a non-empty string || validate non-character input
 */
-#ifndef libary_h
+#ifndef library_h
 #define library_h
 #include <iostream>
 #include <vector>

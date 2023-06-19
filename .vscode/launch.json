@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Alex/Documents/VScode/CSCI202_Assignments/Final_Project",
-      "program": "c:/Users/Alex/Documents/VScode/CSCI202_Assignments/Final_Project/build/Debug/outDebug",
+      "cwd": "c:/Users/Alex/Documents/VScode/CSCI202_Assignments/Library_Management_System",
+      "program": "c:/Users/Alex/Documents/VScode/CSCI202_Assignments/Library_Management_System/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
